@@ -26,5 +26,5 @@ Libraries used:
 
 - Future Scope:
   - make dark/light mode ui and toggle button.
-  - use axios instead of fetch.
+  - ~~use axios instead of fetch.~~ ✅
   - add functionality to buttons to update/delete todos.
