@@ -1,6 +1,6 @@
 # Todo App
 
-![preview](./image/demo.jpeg)
+![preview](./image/preview.jpeg)
 _A simple Todo App made in React._
 
 The following project aims at building a simple todo app in React. The features are as follows:
