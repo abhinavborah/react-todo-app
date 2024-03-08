@@ -20,7 +20,7 @@ app.post("/todo", async (req, res) => {
 
   // put the todo in the DB
   await todo.create({
-    tite: createPayload.title,
+    title: createPayload.title,
     description: createPayload.description,
     completed: false,
   });
