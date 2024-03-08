@@ -17,8 +17,14 @@ Libraries used:
   - Zod for input validation.
   - Mongoose for MongoDB.
   - dotenv for storing secrets (MONGODB_URI, etc).
-  - cors for testing
+  - cors for testing.
 
 - Frontend:
-  - Vite for bootstrapping React app
-  - Tailwind CSS for styling
+
+  - Vite for bootstrapping React app.
+  - Tailwind CSS for styling.
+
+- Future Scope:
+  - make dark/light mode ui and toggle button.
+  - use axios instead of fetch.
+  - add functionality to buttons to update/delete todos.
